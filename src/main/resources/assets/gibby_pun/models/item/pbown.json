@@ -1,0 +1,29 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "gibby_pun:items/bown_standby"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0
+      },
+      "model": "gibby_pun:item/pbown_bown_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "gibby_pun:item/pbown_bown_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "gibby_pun:item/pbown_bown_pulling_2"
+    }
+  ]
+}

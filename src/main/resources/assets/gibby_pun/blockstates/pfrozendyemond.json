@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "gibby_pun:pfrozendyemond"
+    },
+    "inventory": {
+      "model": "gibby_pun:pfrozendyemond"
+    }
+  }
+}

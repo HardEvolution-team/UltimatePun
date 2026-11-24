@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gibby_pun:pportalpun_ns"
+    },
+    "axis=z": {
+      "model": "gibby_pun:pportalpun_ew"
+    }
+  }
+}

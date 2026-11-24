@@ -1,0 +1,6 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "gibby_pun:items/bown_pulling_1"
+  }
+}

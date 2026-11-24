@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "gibby_pun:blocks/mint_1"
+  }
+}

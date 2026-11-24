@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "gibby_pun:pfleshlight"
+    },
+    "facing=east": {
+      "model": "gibby_pun:pfleshlight_wall"
+    },
+    "facing=south": {
+      "model": "gibby_pun:pfleshlight_wall",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "gibby_pun:pfleshlight_wall",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "gibby_pun:pfleshlight_wall",
+      "y": 270
+    }
+  }
+}

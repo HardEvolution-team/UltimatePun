@@ -1,0 +1,10 @@
+jar = "build/libs/gibby_pun-1.0.1.jar"
+changelog = "CHANGELOG.md"
+changelog_type = "markdown"
+changelog_latest_only = true
+release_type = "release"
+game_versions = ["1.12.2", "Forge", "Client", "Server", "Java 21", "Java 25"]
+display_name = "The Ultimate Pun Mod Port 1.0.1"
+
+[dependencies]
+archaiclib = "required"

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gibby_pun:blocks/ice_packed"
+  }
+}

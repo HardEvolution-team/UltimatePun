@@ -1,0 +1,8 @@
+{
+  "parent": "block/brewing_stand",
+  "textures": {
+    "particle": "gibby_pun:blocks/soulstand",
+    "base": "gibby_pun:blocks/soulstand_base",
+    "stand": "gibby_pun:blocks/soulstand"
+  }
+}
